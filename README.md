@@ -32,7 +32,8 @@ Part1:
 
 
 Reference:
-pic:
+background pictures:
+
 https://inspirationhut.net/design-resources/38-old-paper-texture-downloads/ 
 
 https://www.ecopetit.cat/ecvi/xhoJow_sparkling-stars-images-wallpaper-sparkling-stars-images-sparkling/
