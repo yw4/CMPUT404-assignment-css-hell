@@ -1,0 +1,59 @@
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: url('./bgimg.jpg');
+    background-size: 100%;
+    text-align: justify }
+
+
+h1, h2, h3, h4, h5 {text-align: center; font-style: normal; font-weight:
+bold; line-height: 2; margin-top: .5em; margin-bottom: .5em;}
+
+h1 {font-size: 300%;
+    letter-spacing: 0.1em;
+    word-spacing: 0.2em;
+    font-weight: bolder;
+   font-family: 'Georgia',serif;}
+h2 {font-size: 175%; margin-top: 2em; margin-bottom: 2em; }
+h3 {font-size: 150%; margin-top: 2em;}
+h4 {font-size: 120%;}
+h5 {font-size: 15px;margin-bottom: 2em;}
+
+hr {width: 50%; margin-top: 2em; margin-bottom: 2em;}
+
+div.chapter {page-break-before: always; margin-top: 4em;}
+
+p {text-indent: 1em;
+   margin-top: 0.25em;
+   margin-bottom: 0.25em;
+   font: italic  25px Times, serif;;
+   }
+
+
+pre {
+    text-align: center;
+    font: italic bold 20px Georgia, serif;
+    font-size: 15px;
+}
+
+
+p.letter {text-indent: 0%;}
+
+
+p.center  {text-align: center;
+           text-indent: 0em;
+           margin-top: 1em;
+           margin-bottom: 1em; }
+
+p.right {text-align: right;
+         margin-top: 1em;
+         margin-bottom: 1em; }
+
+div.fig { display:block;
+          margin:0 auto;
+          text-align:center; }
+
+a:link {color:blue; text-decoration:none}
+a:visited {color:black; text-decoration:none}
+a:hover {color:red}

@@ -21,4 +21,18 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Part1:
+1. add the paper like background image 
+2. change the style of different head tags with different size, margin, space
+3. change the font style of paragraph
+4. style the pre information
+5. put the image on the middle, auto fit size
+6. image caption is the h5, which is clickable link
+7. After click the content, it will change the colour
+
+
+Reference:
+pic:
+https://inspirationhut.net/design-resources/38-old-paper-texture-downloads/ 
+
 
