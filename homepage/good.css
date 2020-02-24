@@ -1,0 +1,91 @@
+#myself{
+  width: 300px;
+  height: 400px;
+  float: right;
+  padding-right: 15em;
+  padding-left: 7em;
+  margin-top:-9.8em;
+  margin-bottom: 10em
+}
+
+#github{
+  width:40px;
+  height:40px;
+}
+
+#linkedin{
+  width:40px;
+  height:40px;
+}
+
+body{
+  background-image: url('./image/sea.png');
+  background-size: cover;
+}
+
+.intro p{
+  font-size:20px;
+  font: Times, serif;
+}
+
+.head{
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+
+.content{
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size:20px;
+  font: Times, serif;
+}
+
+.navbar{
+  height: 2.5em;
+  vertical-align: middle;
+  margin-left: 10%;
+  margin-right: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(100, 200, 255, 0.6);
+  font: italic  25px Times, serif;
+  font-weight:bold;
+}
+
+.intro{
+  background: rgba(200, 200, 200, 0.6);
+  margin-right: 50%
+
+}
+
+.education{
+  background: rgba(176, 224, 230, 0.6);
+  margin-right: 50%;
+  font-size:20px;
+  font: Times, serif;
+}
+
+.experence li{
+  font-weight:bold;
+}
+.experience{
+  background: rgba(200, 200, 200, 0.6);
+  margin-right: 50%
+}
+
+.skills{
+  background: rgba(176, 224, 230, 0.6);
+  margin-right: 50%
+}
+
+.contact{
+  background: rgba(200, 200, 200, 0.6);
+  margin-right: 50%
+}
+
+
+a:link {color:blue; text-decoration:none}
+a:visited {color:blue; text-decoration:none}
+a:hover {color:red}
