@@ -1,0 +1,59 @@
+body{
+  margin-left: 20%;
+  margin-right: 20%;
+  background-image: url('./stars.jpg');
+  background-size: 100%;
+  text-align: justif
+}
+
+h1, h2, h3 {text-align: center; font-style: normal; font-weight:
+bolder; line-height: 2; margin-top: .5em; margin-bottom: 0; color:white;
+}
+
+h1 {
+   font-size: 4em;
+   font-weight: bolder;
+   font-family: 'Georgia',serif;
+   color:orange;}
+
+
+.intro p{
+  color:hotpink;
+  font-size: 2em}
+
+.navbar{
+  background: red;
+  color:white;
+  font-size: 2.5em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.experience li{
+  color: red;
+  font-size: 2.5em;
+}
+.experience p{
+  color: red;
+  font-size: 2em;}
+
+.education{
+  background: LimeGreen;
+}
+
+.skills li{
+  color: yellow;
+  font-size: 2em;}
+
+.contact td{
+  color: green;
+  font-size: 2em;
+}
+
+a {color:white;}
+
+#myself{
+  width: 300px;
+  height: 400px;
+}
